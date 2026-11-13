@@ -1,0 +1,11 @@
+Reflections:
+
+1. Primary Contribution: I built the code for the project, requirements and the design.md file as well.
+ 
+2. Most challenging problem is that I couldn't communicate with my teammate outside regular lab hours due to outlook's functioning going down. I managed to convey information during class hours and got the project done.
+
+3. We tested the code multiple times and iteratively imporved upon the code to get the desired output.
+
+4. Skills such as git commands, circuit building, file handlling and coding were all useful in building this project.
+
+5. I would improvise on the code by having differnet coloured LEDs flash according to the NORMAL/WARNING status entries.
